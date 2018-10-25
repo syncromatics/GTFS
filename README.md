@@ -8,8 +8,8 @@ Fork of https://github.com/itinero/GTFS
 [![Visit our website](https://img.shields.io/badge/website-itinero.tech-020031.svg) ](http://www.itinero.tech/)
 [![MIT licensed](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://github.com/itinero/GTFS/blob/develop/LICENSE)
 
-[![Travis](https://img.shields.io/travis/syncromatics/GTFS.svg)](https://travis-ci.org/syncromatics/GTFS.DelDOT)
-[![NuGet](https://img.shields.io/nuget/v/GTFS.svg)](https://www.nuget.org/packages/Syncromatics.Clients.DelDOT.Api/)
+[![Travis](https://img.shields.io/travis/syncromatics/GTFS.svg)](https://travis-ci.org/syncromatics/GTFS)
+[![NuGet](https://img.shields.io/nuget/v/GTFS.svg)](https://www.nuget.org/packages/GTFS/)
 [![NuGet Pre Release](https://img.shields.io/nuget/vpre/GTFS.svg)](https://www.nuget.org/packages/GTFS/)
 
 
