@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Reflection;
+using NUnit.Common;
+using NUnitLite;
 
 namespace GTFS.Test.Runner
 {
